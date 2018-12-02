@@ -37,5 +37,5 @@ def main():
     print(frequency_reached_twice(frequencies))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
